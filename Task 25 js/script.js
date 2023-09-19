@@ -6,4 +6,4 @@ let str2 = str[4] + str[3] + str[2] + str[1] + str[0];
 alert(str2);
 let str3 = 'abcde';
 let num = 3;
-alert(str[num]);
+alert(str3[num]);
