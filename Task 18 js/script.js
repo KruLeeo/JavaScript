@@ -7,3 +7,4 @@ console.log(10 / 0);
 console.log(-10 / 0);
 let str = 'abcde';
 console.log(str);
+alert(eee);
