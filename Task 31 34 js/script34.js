@@ -1,0 +1,12 @@
+document.write('Какой-нибудь текст');
+document.write('<br>');
+document.write('<i>Пицца паста Итальяно</i>');
+document.write('<br>');
+let str = 'Текст курсивом, но с помощью переменной';
+document.write('<i>'+ str + '</i>');
+document.write('<br>');
+document.write('1<br>');
+document.write('2<br>');
+document.write('3<br>');
+document.write('4<br>');
+document.write('5<br>');
