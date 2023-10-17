@@ -59,4 +59,4 @@ alert(arr14[key1]+ arr14[key2]);
 let arr15 = ['a', 'b', 'c', 'd', 'e'];
 delete arr15[2];
 delete arr15[3];
-alert(arr15);
+alert(arr15.length); 
