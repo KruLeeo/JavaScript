@@ -1,4 +1,4 @@
-//Задание 1
+// Задание 1
 let test = true;
 
 if (!test) {
@@ -6,23 +6,18 @@ if (!test) {
 } else {
 	console.log('---');
 }
+// Задание 2
+let test2 = true;
 
-
-
-//Задание 2
-let test1 = true;
-
-if (!test1) {
+if (test2 !== true) {
 	console.log('+++');
 } else {
 	console.log('---');
 }
+// Задание 3
+let test3 = true;
 
-
-//Задание 3
-let test2 = true;
-
-if (test2) {
+if (test3 == false) {
 	console.log('+++');
 } else {
 	console.log('---');
